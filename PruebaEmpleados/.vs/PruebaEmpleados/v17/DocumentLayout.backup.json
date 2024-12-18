@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|d:\\nico\\proyectos\\pruebaheonanalista\\pruebaempleados\\pruebaempleados.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|solutionrelative:pruebaempleados.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|d:\\nico\\proyectos\\pruebaheonanalista\\pruebaempleados\\pruebaempleados.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|solutionrelative:pruebaempleados.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|d:\\nico\\proyectos\\pruebaheonanalista\\pruebaempleados\\pruebaempleados.server\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|solutionrelative:pruebaempleados.server\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|d:\\nico\\proyectos\\pruebaheonanalista\\pruebaempleados\\pruebaempleados.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE65B08-9D1E-4A39-84CC-43A7E75E03DF}|PruebaEmpleados.Server\\PruebaEmpleados.Server.csproj|solutionrelative:pruebaempleados.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PruebaEmpleados.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PruebaEmpleados.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T23:19:09.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "PruebaEmpleados.Server\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "PruebaEmpleados.Server\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T23:19:01.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaEmpleados.Server\\Program.cs",
+              "ToolTip": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Program.cs",
+              "RelativeToolTip": "PruebaEmpleados.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:02:07.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "PruebaEmpleados.Server\\Services\\EmpleadoService.cs",
+              "ToolTip": "D:\\Nico\\Proyectos\\PruebaHeonAnalista\\PruebaEmpleados\\PruebaEmpleados.Server\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "PruebaEmpleados.Server\\Services\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:52:08.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
